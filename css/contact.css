@@ -1,0 +1,25 @@
+h1 
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h5
+{
+	letter-spacing: 1px;
+}
+
+.contact-page-link i:hover
+{
+	-webkit-filter: brightness(80%); /* Chrome, Safari, Opera */
+    filter: brightness(80%);
+}
+
+#linkedin
+{
+	color: #00a0dc;
+}
+
+#github
+{
+	color: #5e227f;
+}
