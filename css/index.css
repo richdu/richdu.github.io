@@ -1,0 +1,68 @@
+h1 
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.name
+{
+	letter-spacing: 6px;
+	font-weight: 700;
+	font-size: 80px;
+	text-transform: uppercase;
+	margin-top: 15%;
+	text-align: center;
+}
+
+.description
+{
+	text-align: center;
+	color: #aaa;
+}
+
+.princeton
+{
+
+}
+
+.home-page-link
+{
+	text-align: center;
+}
+
+.home-page-link h6
+{
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+.home-page-link a
+{
+	text-decoration: none;
+}
+
+.home-page-link h6:hover
+{
+	-webkit-filter: brightness(80%); /* Chrome, Safari, Opera */
+    filter: brightness(80%);
+}
+
+.home-page-links
+{
+	margin-top: 60px;
+}
+
+#resume
+{
+	color: #fd2e58;
+}
+
+#projects
+{
+	color: #5fd0d4;
+}
+
+#contact
+{
+	color: #efa93a;
+}
